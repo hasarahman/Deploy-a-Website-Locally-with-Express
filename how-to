@@ -1,3 +1,12 @@
-Deploying a website locally with Express is fast and easy
+Deploying a website locally with Express is fast and easy.
 
-In this example
+In this example, I'll show you how to install node.js and express and get a simple hello world application up and running. This tutorial is tailored towards Mac users.
+
+Step 1: Install node
+We'll use homebrew for this/ If you don't have a hombrew install I highly recommend. In your CLI, from the main directory enter the following
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+brew install node
+
+
