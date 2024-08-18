@@ -1,8 +1,6 @@
-Deploying a web app locally with Express is fast and easy.
+As a Customer Engineer, building demos reliably and quickly is a must. For example, if I wanted to showcase how to use a REST API, like send a text message with Twilio's SMS API, I can quickly do that with Express.
 
 I'll show you how to install node.js and express and get a simple hello world application up and running. This tutorial is tailored towards Mac users. All steps below are performed from the CLI.
-
-As a Customer Engineer, building demos reliably and quickly is a must. For example, if I wanted to showcase how to use a REST API, like send a text message with Twilio's SMS API, I can quickly do that with Express.
 
 We'll use homebrew If you don't have hombrew installed I recommend installing it. 
 
