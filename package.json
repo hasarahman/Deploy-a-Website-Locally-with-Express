@@ -1,0 +1,14 @@
+{
+  "name": "testapp",
+  "version": "1.0.0",
+  "description": "wassup",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install express"
+  },
+  "author": "hasnoon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
