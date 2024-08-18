@@ -1,4 +1,4 @@
-Deploying a website locally with Express is fast and easy.
+Deploying a web app locally with Express is fast and easy.
 
 I'll show you how to install node.js and express and get a simple hello world application up and running. This tutorial is tailored towards Mac users. All steps below are performed from the CLI.
 
